@@ -1,2 +1,2 @@
-This is js assignment
+This is is assignment of javascript
 
