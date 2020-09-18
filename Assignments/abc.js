@@ -4,7 +4,7 @@
 <html>
 <body>
 
-<h2>What Can JavaScript Do?</h2>
+<h3>What Can JavaScript Do?</h3>
 
 <p id="demo">JavaScript can change HTML content.</p>
 
